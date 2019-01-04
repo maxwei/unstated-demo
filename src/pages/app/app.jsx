@@ -12,7 +12,6 @@ import {
     withRouter
 } from 'react-router-dom';
 //页面组件
-import Home from '../home/home';
 import Demo from '../demo/demo';
 
 class App extends React.Component{
